@@ -1,4 +1,4 @@
-module github.com/opentracing-contrib/go-amqp
+module github.com/codjust/go-amqp
 
 go 1.13
 
